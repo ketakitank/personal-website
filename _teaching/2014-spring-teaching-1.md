@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate / Graduate course"
+# permalink: /teaching/2014-spring-teaching-1
+venue: "University of California, San Diego, CSE"
+date: 2025-03-26
+location: "San Diego, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisting Professor Julian McAuley as a Teaching Assistant for **CSE253: Machine Learning for Music**.
 
-Heading 1
+Description of duties
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Conducting Office Hours for 1000+ students per week

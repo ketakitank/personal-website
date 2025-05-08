@@ -442,3 +442,37 @@
     }
   }
 }
+/* Remove default greedy-nav collapsing */
+.greedy-nav.no-hamburger button,
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+/* Align left and right navs */
+.greedy-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.greedy-nav ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.greedy-nav .nav-left {
+  flex: 1;
+}
+
+.greedy-nav .nav-right {
+  margin-left: auto;
+  gap: 1rem;
+}
+
+
+
+
