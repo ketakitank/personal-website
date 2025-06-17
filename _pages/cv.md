@@ -4,7 +4,8 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+ - /resume
+redirect_to: "https://drive.google.com/file/d/1_bcLS22tgBEiEZi8oEJZJFXxzD6zlBPp/view?usp=sharing"
 ---
 
 {% include base_path %}
@@ -29,7 +30,7 @@ Work experience
 * **Fall 2024 - Present: Research Assistant**
   * University of California, San Diego
   * Duties included: Working on analysis of topic modelling using various algorithms and custom approaches 
-  * Supervisor: Professor McAuley and PhD candidate Raghav Jain
+  * Supervisor: Professor McAuley 
   
 Skills
 ======
