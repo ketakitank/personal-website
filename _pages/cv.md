@@ -27,7 +27,7 @@ Work experience
   * Duties includes: Conducting Office Hours for 1000+ students
   * Supervisor: Professor Julian McAuley
 
-* **Fall 2024 - Present: Research Assistant**
+* **Fall 2024 - Spring 2025: Research Assistant**
   * University of California, San Diego
   * Duties included: Working on analysis of topic modelling using various algorithms and custom approaches 
   * Supervisor: Professor McAuley 
@@ -35,6 +35,7 @@ Work experience
 Skills
 ======
 * Python
+* Golang 
 * Data Structures and Algorithms
 * TensorFlow / Pytorch
 * Model Optimization: Quantization (INT8/FP16), TensorRT, ONNX, TorchScript
