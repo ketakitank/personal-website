@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+* **Fall 2025: Teaching Assistant**
+  * University of California, San Diego
+  * Duties includes: Conducting Office Hours for 200+ students, curating material for the course, leading projects
+  * Supervisor: Professor Yiying Zhang
+  * Course: Systems for LLMs and AI Agents
+
 * **Summer 2025: Software Engineering Intern**
   * Aurora Operations, Inc.
   * Duties includes: Contributing to software infrastructure and internal tooling
@@ -26,6 +32,7 @@ Work experience
   * University of California, San Diego
   * Duties includes: Conducting Office Hours for 1000+ students
   * Supervisor: Professor Julian McAuley
+  * Course: Machine Learning for Music
 
 * **Fall 2024 - Spring 2025: Research Assistant**
   * University of California, San Diego
