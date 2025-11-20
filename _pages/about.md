@@ -11,9 +11,11 @@ Hi! I'm Ketaki Tank, a second-year Master's student in Computer Science and Engi
 
 ## Current Work
 
-I'm currently looking for research opportunities where I potentially work on projects exploring **Large Language Models (LLMs) and Machine Unlearning**, while serving as a Teaching Assistant for a course titled "Systems for LLMs and AI Agents"
+I'm currently working in Hao AI Lab where I am working on implementing benchmarks for the [FastVideo](https://github.com/hao-ai-lab/FastVideo) model, while serving as a Teaching Assistant for a course titled ["Systems for LLMs and AI Agents"](https://cseweb.ucsd.edu/~yiying/cse291a-fall25/)
 
 ## Recent Experience
+
+**Fall 2025** - Working on [FastVideo](https://github.com/hao-ai-lab/FastVideo) Hao AI Lab @ UCSD, under the mentorship of Professor Hao Zhang.
 
 **Fall 2025** -  I am serving as a Teaching Assistant for CSE 291A: Systems for LLMs and AI Agents, where I am helping curate the course content, lead projects and help 200+ graduate students.
 

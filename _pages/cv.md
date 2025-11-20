@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* **Fall 2025: Research Intern**
+  * Working in Hao AI Lab, contributing to [FastVideo](https://github.com/hao-ai-lab/FastVideo)
+  * Advised by: Professor Hao Zhang
+  
 * **Fall 2025: Teaching Assistant**
   * University of California, San Diego
   * Duties includes: Conducting Office Hours for 200+ students, curating material for the course, leading projects
