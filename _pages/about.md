@@ -11,7 +11,7 @@ Hi! I'm Ketaki Tank, a second-year Master's student in Computer Science and Engi
 
 ## Current Work
 
-I'm currently working in Hao AI Lab where I am working on implementing benchmarks for the [FastVideo](https://github.com/hao-ai-lab/FastVideo) model, while serving as a Teaching Assistant for a course titled ["Systems for LLMs and AI Agents"](https://cseweb.ucsd.edu/~yiying/cse291a-fall25/)
+I'm currently working in Hao AI Lab where I am working on the [FastVideo](https://github.com/hao-ai-lab/FastVideo) project, while serving as a Teaching Assistant for a course titled ["Systems for LLMs and AI Agents"](https://cseweb.ucsd.edu/~yiying/cse291a-fall25/)
 
 ## Recent Experience
 
