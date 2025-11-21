@@ -15,7 +15,7 @@ I'm currently working in Hao AI Lab where I am working on the [FastVideo](https:
 
 ## Recent Experience
 
-**Fall 2025** - Working on [FastVideo](https://github.com/hao-ai-lab/FastVideo) Hao AI Lab @ UCSD, under the mentorship of Professor Hao Zhang.
+**Fall 2025** - Working on [FastVideo](https://github.com/hao-ai-lab/FastVideo) project at Hao AI Lab @ UCSD, under the mentorship of Professor Hao Zhang.
 
 **Fall 2025** -  I am serving as a Teaching Assistant for CSE 291A: Systems for LLMs and AI Agents, where I am helping curate the course content, lead projects and help 200+ graduate students.
 
