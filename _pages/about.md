@@ -7,7 +7,7 @@ redirect_from:
  - /about.html
 ---
 
-Hi! I'm Ketaki Tank, a Software Engineer @ Aurora with a Master's in Computer Science and a background in Large Language Models, ML Systems & production-scale AI infrastructure. Please reach me @ [ketaki.misc@gmail.com](mailto:ketaki.misc@gmail.com) if you'd like to collaborate on something interesting, discuss ML infrastructure, or just say hi! 
+Hi! I'm Ketaki Tank, a Software Engineer @ [Aurora Inc.](https://aurora.tech/) with a **Master's in Computer Science** and a background in **Large Language Models, ML Systems & production-scale AI infrastructure**. Please reach me [here](mailto:ketaki.misc@gmail.com) if you'd like to collaborate on something interesting, discuss ML infrastructure, or just say hi! 
 
 ## Current Work
 
